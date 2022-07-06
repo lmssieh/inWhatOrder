@@ -1,0 +1,206 @@
+{
+	"name": "Danmachi",
+	"alternativeNames": ["Is It Wrong to Try to Pick Up Girls in a Dungeon?"],
+	"source": null,
+	"order": [
+		{
+			"mal_id": 28121,
+			"isOptional": false,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/2/70187.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/2/70187t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/2/70187l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/2/70187.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/2/70187t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/2/70187l.webp"
+				}
+			},
+			"title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+			"title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+			"type": "TV",
+			"source": "Light novel",
+			"episodes": 13,
+			"synopsis": "Life in the bustling city of Orario is never dull, especially for Bell Cranel, a naïve young man who hopes to become the greatest adventurer in the land. After a chance encounter with the lonely goddess, Hestia, his dreams become a little closer to reality. With her support, Bell embarks on a fantastic quest as he ventures deep within the city's monster-filled catacombs, known only as the \"Dungeon.\" Death lurks around every corner in the cavernous depths of this terrifying labyrinth, and a mysterious power moves amidst the shadows. Even on the surface, survival is a hard-earned privilege. Indeed, nothing is ever certain in a world where gods and humans live and work together, especially when they often struggle to get along. One thing is for sure, though: a myriad of blunders, triumphs and friendships awaits the dauntlessly optimistic protagonist of this herculean tale. [Written by MAL Rewrite]"
+		},
+		{
+			"mal_id": 32801,
+			"isOptional": true,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/9/81432.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/9/81432t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/9/81432l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/9/81432.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/9/81432t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/9/81432l.webp"
+				}
+			},
+			"title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA",
+			"title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Is It Wrong to Expect a Hot Spring in a Dungeon?",
+			"type": "OVA",
+			"source": "Light novel",
+			"episodes": 1,
+			"synopsis": "On their way back from the 18th floor, Hestia, Bell, and the others accidentally uncover a hidden, mystical hot spring, and they decide to stop by to refresh themselves until creatures lurking in the dark appear to attack them."
+		},
+		{
+			"mal_id": 32887,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1181/123312.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1181/123312t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1181/123312l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1181/123312.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1181/123312t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1181/123312l.webp"
+				}
+			},
+			"title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+			"title_english": "Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side",
+			"type": "TV",
+			"source": "Light novel",
+			"episodes": 12,
+			"synopsis": "After having descended upon this world, the gods have created guilds where adventurers can test their mettle. These guilds, known as \"familia,\" grant adventurers the chance to explore, gather, hunt, or simply enjoy themselves. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria begins in Orario, the lively city of adventures. The Sword Princess, Ais Wallenstein, and the novice mage, Lefiya Viridis, are members of the Loki Familia, who are experts at monster hunting. With the rest of their group, they journey to the tower of Babel in hopes of exploring the dungeon underneath. Home to powerful monsters, the dungeon will fulfill Ais's desire to master her sword skills, while bringing Lefiya closer to her dream of succeeding Riveria Ljos Alf, vice-captain of the Loki Familia, as the most powerful mage in the land. [Written by MAL Rewrite]",
+			"isOptional": false,
+			"isSpinoff": true
+		},
+		{
+			"mal_id": 37348,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1239/96949.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1239/96949t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1239/96949l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1239/96949.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1239/96949t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1239/96949l.webp"
+				}
+			},
+			"title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya",
+			"title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion",
+			"type": "Movie",
+			"source": "Light novel",
+			"episodes": 1,
+			"synopsis": "Continuing his adventure to get stronger in order to traverse deeper into the \"Dungeon,\" Bell Cranel wanders the Orario city streets with his friends and the goddess Hestia. That evening, the city is filled with stalls and games as it celebrates the Holy Moon Festival. Hermes, a god, hosts one such activity where participants are asked to pull a spear embedded in a crystal boulder; those who succeed will receive a special gift: a trip around the world and a divine blessing from the gods! Bell and his merry group challenge one another to claim the prize. But behind the facade of an innocent party game lies a preface for a daring quest ahead. [Written by MAL Rewrite]",
+			"isOptional": true
+		},
+		{
+			"mal_id": 37347,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1730/101329.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1730/101329t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1730/101329l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1730/101329.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1730/101329t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1730/101329l.webp"
+				}
+			},
+			"title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+			"title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
+			"type": "TV",
+			"source": "Light novel",
+			"episodes": 12,
+			"synopsis": "It is business as usual in the massive city of Orario, where legions of adventurers gather to explore the monster-infested \"Dungeon.\" Among them is the easily flustered yet brave Bell Cranel, the sole member of the Hestia Familia. With the help of his demi-human supporter Liliruca Arde and competent blacksmith Welf Crozzo, Bell has earned the title of Little Rookie by becoming Orario's fastest-growing adventurer thanks to his endeavors within the deeper levels of the Dungeon. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II continues Bell's adventures as he tries to bring glory to his goddess and protect those he cares about. However, various familias and gods across the city begin to take notice of his achievements and attempt to add him to their ranks. [Written by MAL Rewrite]",
+			"isOptional": true
+		},
+		{
+			"mal_id": 40453,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1360/111696.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1360/111696t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1360/111696l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1360/111696.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1360/111696t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1360/111696l.webp"
+				}
+			},
+			"title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
+			"title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II: Is It Wrong to go Searching for Herbs on a Deserted Island?",
+			"type": "OVA",
+			"source": "Light novel",
+			"episodes": 1,
+			"synopsis": "Miach sends the Hestia Familia to find a rare herb on a deserted island. Unbeknownst to the group, a familiar face is also on the island and things will get chaotic. (Source: DanMachi Wiki)",
+			"isOptional": true
+		},
+		{
+			"mal_id": 40454,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1523/108380.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1523/108380t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1523/108380l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1523/108380.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1523/108380t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1523/108380l.webp"
+				}
+			},
+			"title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
+			"title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? III",
+			"type": "TV",
+			"source": "Light novel",
+			"episodes": 12,
+			"synopsis": "Upon his run-in with a Vouivre—a monster known to be very dangerous—Hestia Familia's captain Bell Cranel is struck with incomprehension. Despite its preceding reputation, the supposed bloodthirsty creature happens to be crying and flees from a group of adventurers. The monster, taking the form of a terrified little girl, prompts Bell to swiftly decide to hide her. Unbeknownst to him, this act of kindness will cause massive repercussions that will soon echo throughout the entire city of Orario. [Written by MAL Rewrite]",
+			"isOptional": false
+		},
+		{
+			"mal_id": 44983,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1767/110800.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1767/110800t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1767/110800l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1767/110800.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1767/110800t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1767/110800l.webp"
+				}
+			},
+			"title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III OVA",
+			"title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? III: Is It Wrong to Try to Find a Hot Spring in Orario?",
+			"type": "OVA",
+			"source": "Light novel",
+			"episodes": 1,
+			"synopsis": "There's a new natural hot spring in Orario thanks to the Dian Cecht Familia, but Naaza of the Miach Familia suspects an elaborate con and needs help to prove it. What does that mean for Bell since he's in the wrong place at the wrong time? It means getting caught in the middle of an ongoing rivalry between two Familias. Again. (Source: ANN)",
+			"isOptional": true
+		},
+		{
+			"mal_id": 47164,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1180/120373.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1180/120373t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1180/120373l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1180/120373.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1180/120373t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1180/120373l.webp"
+				}
+			},
+			"title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen",
+			"title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV",
+			"type": "TV",
+			"source": "Light novel",
+			"episodes": null,
+			"synopsis": "Intrepid adventurer Bell Cranel has leveled up, but he can’t rest on his dungeoneering laurels just yet. The Hestia Familia still has a long way to go before it can stand toe-to-toe with the other Familias of Orario — but before Bell can set out on his next mission, reports of a brutal murder rock the adventuring community! One of Bell’s trusted allies stands accused of the horrible crime, and it’s up to Bell and his friends to clear their name and uncover a nefarious plot brewing in the dungeon’s dark depths. (Source: Sentai Filmworks)",
+			"isOptional": false
+		}
+	]
+}
