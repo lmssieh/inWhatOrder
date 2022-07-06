@@ -1,7 +1,10 @@
 {
 	"name": "Danmachi",
 	"alternativeNames": ["Is It Wrong to Try to Pick Up Girls in a Dungeon?"],
-	"source": null,
+	"source": {
+		"name": "r/anime wiki",
+		"url": "https://www.reddit.com/r/anime/wiki/watch_order#wiki_danmachi"
+	},
 	"order": [
 		{
 			"mal_id": 28121,
