@@ -7,8 +7,7 @@ body {
   margin: 0;
   font-family:  'Overpass', sans-serif !important;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  
+  -moz-osx-font-smoothing: grayscale; 
 }
 
 body::-webkit-scrollbar-track,
@@ -36,7 +35,6 @@ body::-webkit-scrollbar-thumb,
 	background-color: #9ca3af;
   border-radius: 7px;
 }
-
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
