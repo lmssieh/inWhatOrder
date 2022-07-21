@@ -2,15 +2,19 @@ import { useRef, useState } from "react";
 import animes from "../../assets/animes.js";
 import Fuse from "fuse.js";
 import { Link, Outlet } from "react-router-dom";
+import useOnClickOutside from "../hooks/useOnClickOutside.js";
 
 function AppHeader() {
 	const [search, setSearch] = useState("");
 	const [searchResult, setSearchResult] = useState([]);
 
 	const inputRef = useRef(null);
+	const searchRef = useRef(null);
 	const fuse = new Fuse(animes, {
 		keys: ["names"],
 	});
+
+	useOnClickOutside(searchRef, () => setSearchResult([]));
 
 	const updateSearch = (val: string) => {
 		setSearch(val);
@@ -19,11 +23,17 @@ function AppHeader() {
 		setSearchResult([...fuseResult].map((i) => i.item));
 	};
 
+	const linkClicked = () => {
+		updateSearch("");
+	};
 	return (
 		<div className=" my-10">
 			<div className="max-w-[500px] m-auto ">
 				<h1 className="font-bold text-3xl text-center">In What Order</h1>
-				<div className="mt-3 flex justify-center gap-1 relative w-full">
+				<div
+					className="mt-3 flex justify-center gap-1 relative w-full"
+					ref={searchRef}
+				>
 					<input
 						type="text"
 						placeholder="Search..."
@@ -31,6 +41,7 @@ function AppHeader() {
 						value={search}
 						ref={inputRef}
 						onChange={(event) => updateSearch(event?.target.value)}
+						onClick={(event) => updateSearch(event?.target.value)}
 					/>
 					<button className="bg-blue-600 text-white px-4 flex items-center justify-center rounded-md">
 						Search
@@ -40,8 +51,11 @@ function AppHeader() {
 							<ul className="children:(cursor-pointer py-2 px-2 border-b-1 border-gray-200 flex justify-center justify-between)">
 								{searchResult.length > 0 &&
 									searchResult.map((s) => (
-										<Link to={`order/${s.fileName}`}>
-											<li onClick={() => console.log(s.fileName)}>{s.name}</li>
+										<Link
+											to={`order/${s.fileName}`}
+											onClick={() => linkClicked()}
+										>
+											<li>{s.name}</li>
 										</Link>
 									))}
 							</ul>
