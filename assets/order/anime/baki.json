@@ -1,0 +1,137 @@
+{
+	"name": "Baki",
+	"source": {
+		"name": "r/anime wiki",
+		"url": "https://www.reddit.com/r/anime/wiki/watch_order#wiki_baki"
+	},
+	"order": [
+		{
+			"mal_id": 287,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/3/7604.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/3/7604t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/3/7604l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/3/7604.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/3/7604t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/3/7604l.webp"
+				}
+			},
+			"title": "Grappler Baki (TV)",
+			"title_english": null,
+			"type": "TV",
+			"source": "Manga",
+			"episodes": 24,
+			"synopsis": "Ever since he was born, Baki Hanma has always known nothing but fighting—strengthening every single muscle and learning different techniques from various martial arts under the supervision of his mother, Emi Akezawa. He trains in order to prepare himself to face and eventually surpass his own father, Yuujirou Hanma, a man feared by the masses as the \"Ogre\" and deemed the strongest being in the world. However, when Baki realizes his mother's techniques are no longer enough, he sets out to become stronger in his own way. Seeking out powerful opponents and forming unbreakable bonds with them, he continues to grow both body and his soul, as the clock continues to tick closer toward the inevitable showdown against his father... [Written by MAL Rewrite]",
+			"orderEpisodes": "1_16"
+		},
+		{
+			"mal_id": 1859,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/2/83803.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/2/83803t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/2/83803l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/2/83803.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/2/83803t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/2/83803l.webp"
+				}
+			},
+			"title": "Grappler Baki",
+			"title_english": null,
+			"type": "OVA",
+			"source": "Manga",
+			"episodes": 1,
+			"synopsis": "Doppo Orochi sits down to watch the final match of his karate school's youth tournament. Atsushi Suedou, one of his disciples, faces off against Baki Hanma, a fresh teenage boy breezing through the matches. Intrigued by the boy's strength, Doppo, alongside another of his disciples—Kiyosumi Katou— visits the notorious Tokugawa underground ring—a hidden freestyle fighting arena that prohibits only weaponry in its matches. Upon arriving, they learn that Baki is set to face none other than Koushou Shinogi: an infamous karate master and user of the lethal Cord-Cutting technique. [Written by MAL Rewrite]"
+		},
+		{
+			"mal_id": 287,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/3/7604.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/3/7604t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/3/7604l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/3/7604.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/3/7604t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/3/7604l.webp"
+				}
+			},
+			"title": "Grappler Baki (TV)",
+			"title_english": null,
+			"type": "TV",
+			"source": "Manga",
+			"episodes": 24,
+			"synopsis": "Ever since he was born, Baki Hanma has always known nothing but fighting—strengthening every single muscle and learning different techniques from various martial arts under the supervision of his mother, Emi Akezawa. He trains in order to prepare himself to face and eventually surpass his own father, Yuujirou Hanma, a man feared by the masses as the \"Ogre\" and deemed the strongest being in the world. However, when Baki realizes his mother's techniques are no longer enough, he sets out to become stronger in his own way. Seeking out powerful opponents and forming unbreakable bonds with them, he continues to grow both body and his soul, as the clock continues to tick closer toward the inevitable showdown against his father... [Written by MAL Rewrite]",
+			"orderEpisodes": "17_24"
+		},
+		{
+			"mal_id": 551,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1433/96723.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1433/96723t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1433/96723l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1433/96723.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1433/96723t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1433/96723l.webp"
+				}
+			},
+			"title": "Grappler Baki: Saidai Tournament-hen",
+			"title_english": null,
+			"type": "TV",
+			"source": "Manga",
+			"episodes": 24,
+			"synopsis": "Mitsunari Tokugawa, the organizer of the historic Tokugawa underground fighting ring, has created a tournament featuring 38 of the world's best fighters, many of whom are grandmasters in their respective form of martial arts. With the exception of weapons, anything goes in Tokugawa's ring so that each fighter is able to showcase their true power and strongest secret moves. Baki Hanma earned a place in the tournament due to his status as the reigning champion of Tokugawa's fighting ring. Will he be able to come out on top? [Written by MAL Rewrite]"
+		},
+		{
+			"mal_id": 34443,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1979/93135.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1979/93135t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1979/93135l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1979/93135.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1979/93135t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1979/93135l.webp"
+				}
+			},
+			"title": "Baki",
+			"title_english": null,
+			"type": "ONA",
+			"source": "Manga",
+			"episodes": 26,
+			"synopsis": "After emerging victorious from a brutal underground tournament, Baki Hanma continues on his path to defeat his father, Yuujirou, the strongest man in the world. However, he gets no time to rest when the tournament runner, Tokugawa Mitsunari, visits him at school. He reveals to Baki that five incredibly dangerous death row inmates from around the world—all skilled in martial arts—have simultaneously escaped confinement and are heading to Tokyo, each wishing to finally know the taste of defeat. Tokugawa warns that, due to his well-known strength, Baki is bound to encounter them sooner or later, and he will not be their only target. Adapting the first saga of the second manga series, Baki centers on the all-out war between the esteemed martial artists of Japan and those of the dark underground world. [Written by MAL Rewrite]"
+		},
+		{
+			"mal_id": 39555,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1924/109353.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1924/109353t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1924/109353l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/1924/109353.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/1924/109353t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/1924/109353l.webp"
+				}
+			},
+			"title": "Baki: Dai Raitaisai-hen",
+			"title_english": "Baki: The Great Raitai Tournament Saga",
+			"type": "ONA",
+			"source": "Manga",
+			"episodes": 13,
+			"synopsis": "Weakened by the poison from his last battle, Baki Hanma finds himself on the verge of death with no salvation in sight. However, after Baki's friend, Retsu Kaiou, brings him to China, he learns about the centurial Raitai Tournament, where the fiercest warriors fight to be crowned as the strongest martial artist in all of China. As it is now allowing entry to foreigners, Baki is informed that he will have to compete in the tournament as it holds the cure to his illness. Unfortunately, Baki's father, deemed the \"Strongest Creature on Earth,\" is participating too. Baki 2nd Season details the events of the grand Chinese tournament, as well as Baki's encounter with the eccentric yet powerful Mohammad Alai Jr. [Written by MAL Rewrite]"
+		}
+	]
+}

@@ -1,0 +1,115 @@
+{
+	"name": "Mushishi",
+	"source": {
+		"name": "r/anime wiki",
+		"url": "https://www.reddit.com/r/anime/wiki/watch_order#wiki_mushishi"
+	},
+
+	"order": [
+		{
+			"mal_id": 21329,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/10/59315.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/10/59315t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/10/59315l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/10/59315.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/10/59315t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/10/59315l.webp"
+				}
+			},
+			"title": "Mushishi: Hihamukage",
+			"title_english": "Mushi-shi: The Shadow that Devours the Sun",
+			"type": "Special",
+			"source": "Manga",
+			"episodes": 1,
+			"synopsis": "The entire countryside comes to a halt midday to witness a rare solar eclipse that is rumored to allow the average person to see Mushi. Unable to avert their gaze, the air is full of awe and wonder—but those who know the Mushi are preparing for the eclipse's aftermath. Based on a prediction from Tanyuu Karibusa, the cursed recorder, Mushishi Ginko finds himself in a very unlucky farming village. Immediately following the solar eclipse, a strange black cloud begins to gather in the sky and blocks the sun once more. Suspecting it to be the work of a Mushi known as Hihami, Ginko seeks to liberate the village from perpetual darkness. However, it seems that not all of the villagers are eager to return to the light. [Written by MAL Rewrite]"
+		},
+		{
+			"mal_id": 21939,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/13/58533.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/13/58533t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/13/58533l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/13/58533.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/13/58533t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/13/58533l.webp"
+				}
+			},
+			"title": "Mushishi Zoku Shou",
+			"title_english": "Mushi-shi: Next Passage Part 1",
+			"type": "TV",
+			"source": "Manga",
+			"episodes": 10,
+			"synopsis": "Perceived as strange and feared by man, over time the misshapen ones came to be known as Mushi. Although they harbor no ill intentions towards humans, many suffer from the side effects of their existence and strange nature; exploiting the Mushi without understanding them, even unintentionally, can lead to disaster and strife for any involved. Mushishi Zoku Shou continues the story of Mushishi Ginko on his journey to help the visible world to coexist with the Mushi. During his travels, Ginko discovers various gifted individuals—those cursed by circumstance and those maintaining a fragile symbiosis with the Mushi—inevitably confronting the question of whether humanity, talented and tortured alike, can manage the responsibility of the unseen. Moreover, as a Mushishi, Ginko must learn more about these strange beings and decide if he has the right to interfere with the complex relationships between Mushi and mankind. [Written by MAL Rewrite]"
+		},
+		{
+			"mal_id": 24687,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/8/63539.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/8/63539t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/8/63539l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/8/63539.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/8/63539t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/8/63539l.webp"
+				}
+			},
+			"title": "Mushishi Zoku Shou: Odoro no Michi",
+			"title_english": "Mushishi Path of Thorns",
+			"type": "Special",
+			"source": "Manga",
+			"episodes": 1,
+			"synopsis": "Mysterious, unknowable creatures alien to the laws of nature—known only to some and feared by others—\"Mushi\" lie behind many of life's strange phenomena. Long ago, a Mushi of terrifying power threatened to extinguish all life. The Minai clan of Mushishi were born from those who stopped this malevolent force, their members bound by duty to serve as retainers to the Karibusa family, within whom the Mushi remains sealed. The Mushishi Ginko is given a job request from Tanyuu Karibusa: oversee the work of the head of the Minai clan, Kumado Minai, in investigating an abandoned village where dead wood and even houses spring back to life as flourishing plants. Though the Minai clan are oddly ruthless among Mushishi, even more peculiar is their widespread dull character, with little appreciation for beauty or sentiment. Tanyuu believes there is more to this trend than meets the eye. Ginko aims to answer her curiosity as he follows Kumado into a \"Path of Thorns,\" a place where Mushi flow from their own strange sources into the world of the living. Rare and deadly varieties of Mushi lurk in these depths, along with the secret nature of the Minai clan's resolve to their ancient task. [Written by MAL Rewrite]"
+		},
+		{
+			"mal_id": 24701,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/9/68095.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/9/68095t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/9/68095l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/9/68095.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/9/68095t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/9/68095l.webp"
+				}
+			},
+			"title": "Mushishi Zoku Shou 2nd Season",
+			"title_english": "Mushi-shi: Next Passage Part 2",
+			"type": "TV",
+			"source": "Manga",
+			"episodes": 10,
+			"synopsis": "Ghostly, primordial beings known as Mushi continue to cause mysterious changes in the lives of humans. The travelling Mushishi, Ginko, persists in trying to set right the strange and unsettling situations he encounters. Time loops, living shadows, and telepathy are among the overt effects of interference from Mushi, but more subtle symptoms that take years to be noticed also rouse Ginko's concern as he passes from village to village. Through circumstance, Ginko has become an arbiter, determining which Mushi are blessings and which are curses. But the lines that he seeks to draw are subjective. Some of his patients would rather exercise their new powers until they are utterly consumed by them; others desperately strive to rid themselves of afflictions which are in fact protecting their lives from devastation. Those who cross paths with Mushi must learn to accept seemingly impossible consequences for their actions, and heal wounds they did not know they had. Otherwise, they risk meeting with fates beyond their comprehension. [Written by MAL Rewrite]"
+		},
+		{
+			"mal_id": 28957,
+			"images": {
+				"jpg": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/9/72689.jpg",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/9/72689t.jpg",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/9/72689l.jpg"
+				},
+				"webp": {
+					"image_url": "https://cdn.myanimelist.net/images/anime/9/72689.webp",
+					"small_image_url": "https://cdn.myanimelist.net/images/anime/9/72689t.webp",
+					"large_image_url": "https://cdn.myanimelist.net/images/anime/9/72689l.webp"
+				}
+			},
+			"title": "Mushishi Zoku Shou: Suzu no Shizuku",
+			"title_english": null,
+			"type": "Movie",
+			"source": "Manga",
+			"episodes": 1,
+			"synopsis": "On a warm summer day, a boy heard the sound of bells ringing, as if in celebration, in the mountain near his home. Several years later in that same mountain, the mushishi Ginko encounters a strange girl with weeds growing out of her body. Soon after, Ginko coincidentally runs into the now grown-up boy Yoshiro on his way off the mountain. With Yoshiro's help, Ginko soon begins to uncover who this mysterious girl is and what happened to her. An adaptation of the last arc in the manga, Mushishi Zoku Shou: Suzu no Shizuku follows Ginko's peculiar journey amidst the occult to unravel the mystery behind the enigmatic girl called Kaya and the mountain that has become her home. [Written by MAL Rewrite]"
+		}
+	]
+}
